@@ -806,14 +806,7 @@ let template = await generateWAMessageFromContent(m.chat, proto.Message.fromObje
                 anu = `
                 *Info Script*     
 
-📚 *Base : Dika Ardnt* 
-
-https://github.com/DikaArdnt/Hisoka-Morou
-
-
-🌱 Recode By : Sanzy YT
-
-https://youtube.com/c/SanzyYT`
+Di YouTube banyak `
                 let button = [{
                                 urlButton: {
                                     displayText: 'Youtube Creator',
