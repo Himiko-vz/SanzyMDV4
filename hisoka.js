@@ -809,15 +809,15 @@ let template = await generateWAMessageFromContent(m.chat, proto.Message.fromObje
 Di YouTube banyak `
                 let button = [{
                                 urlButton: {
-                                    displayText: 'Youtube Creator',
-                                    url: 'https://youtube.com/c/SanzyYT'
+                                    displayText: 'Instagram Creator',
+                                    url: 'https://instagram.com/kevinafsar_?utm_medium=copy_link'
                                 }
                             }]
                 hisoka.send5ButImg(m.chat, anu, hisoka.user.name, global.thumb, button)
             }
             break
              case 'tes': {
-                m.reply('On Kak')
+                m.reply('On sayang')
             }
             break
             case 'chat': {
@@ -6015,7 +6015,7 @@ break
 		    hisoka.copyNForward(m.chat, msgs[budy.toLowerCase()], true)
 		}
         }
-     if (budy.includes('6281276698054')) {  
+     if (budy.includes('6283131214121')) {  
 hisoka.sendMessage(m.chat, {text: 'Ada Apa Ya Tags Owner Saya'}, {quoted: ftroli})
 	  }	     
 
