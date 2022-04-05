@@ -62,10 +62,10 @@ global.namaowner = 'Kevin afsar'
 global.myweb = 'https://kevinafsarmanik.github.io/nino-wife.github.io/'
 
 
-global.owner = [ '6283802905703' ]
+global.owner = [ '6283131214121' ]
 
 
-global.premium = ['6283802905703']
+global.premium = ['6283131214121']
 
 
 global.packname = 'Kevin Gemoyyy'
