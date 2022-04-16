@@ -55,7 +55,7 @@ global.APIKeys = {
 
 // Other
 
-global.namabot = 'Kyraa Bot'
+global.namabot = 'KENMA Bot'
 
 global.namaowner = 'Kevin afsar'
 
